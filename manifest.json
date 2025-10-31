@@ -3,22 +3,17 @@
   "short_name": "pc",
   "icons": [
     {
-      "src": "images/camera_128.png",
-      "sizes": "128x128",
-      "type": "image/png"
-    },
-    {
       "src": "images/camera_256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "images/camera_512.png",
+      "src": "images/camera_256.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "images/camera_64.png",
+      "src": "images/camera_256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "maskable"
